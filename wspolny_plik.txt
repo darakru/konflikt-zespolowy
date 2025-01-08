@@ -1,2 +1,3 @@
 Tekst początkowy
-Dodano linię przez StudentA
+Dodano linię przez Student A
+Dodano linię przez Studenta B
